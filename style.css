@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-.gradient-background {
-    background-color: #E6CBEF;
-}
-=======
-
->>>>>>> 9001704 (Inital commit)
 
 
 .nav-link {
@@ -12,11 +5,7 @@
     padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
     font-size: var(--bs-nav-link-font-size);
     font-weight: var(--bss-nav-link-font-weight);
-<<<<<<< HEAD
-    color: #95859c!important;
-=======
     color: #ffffff!important;
->>>>>>> 9001704 (Inital commit)
     text-decoration: none;
     background: 0 0;
     border: 0;
@@ -26,11 +15,7 @@
 
 .nav-pills {
     --bs-nav-pills-border-radius: 20px!important;
-<<<<<<< HEAD
-    --bs-nav-pills-link-active-color: rgb(156 119 166)!important;
-=======
     --bs-nav-pills-link-active-color: #9c77a6!important;
->>>>>>> 9001704 (Inital commit)
     --bs-nav-pills-link-active-bg: #363037!important;
 }
 
@@ -55,11 +40,7 @@
 .h2, h2 {
     
     letter-spacing: 2px!important;
-<<<<<<< HEAD
-    color: #ae95b8!important;
-=======
     color: #85a8a1!important;
->>>>>>> 9001704 (Inital commit)
 
 }
 
@@ -69,11 +50,7 @@
     padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
     clear: both;
     font-weight: 400;
-<<<<<<< HEAD
-    color: #6a636c ;
-=======
     color: #3b4d57 ;
->>>>>>> 9001704 (Inital commit)
     text-align: inherit;
     text-decoration: none;
     white-space: nowrap;
@@ -89,32 +66,15 @@
     --bs-dropdown-padding-y: 0.5rem;
     --bs-dropdown-spacer: 0.125rem;
     --bs-dropdown-font-size: 1rem;
-<<<<<<< HEAD
-    --bs-dropdown-color: #7a737f !important;
-    --bs-dropdown-bg: #f7e2fd!important;
-    --bs-dropdown-border-color: rgba(249, 225, 255, 0)!important;
-=======
     --bs-dropdown-color: #617478 !important;
     --bs-dropdown-bg: #d9e8e3!important;
     --bs-dropdown-border-color: #f9e1ff00!important;
->>>>>>> 9001704 (Inital commit)
     --bs-dropdown-border-radius: 10px !important;
     --bs-dropdown-border-width: var(--bs-border-width);
     --bs-dropdown-inner-border-radius: calc(var(--bs-border-radius) - var(--bs-border-width));
     --bs-dropdown-divider-bg: var(--bs-border-color-translucent);
     --bs-dropdown-divider-margin-y: 0.5rem;
     --bs-dropdown-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-<<<<<<< HEAD
-    --bs-dropdown-link-color: #756c7d !important;
-    --bs-dropdown-link-hover-color: #a593b2!important;
-    --bs-dropdown-link-hover-bg: #f2d5fb!important;
-    --bs-dropdown-link-active-color: #a593b2!important;
-    --bs-dropdown-link-active-bg: #f2d5fb!important;
-    --bs-dropdown-link-disabled-color: var(--bs-tertiary-color);
-    --bs-dropdown-item-padding-x: 1rem;
-    --bs-dropdown-item-padding-y: 0.25rem;
-    --bs-dropdown-header-color: #756c7d;
-=======
     --bs-dropdown-link-color: #617478 !important;
     --bs-dropdown-link-hover-color: #ffffff!important;
     --bs-dropdown-link-hover-bg: #9db8b09a!important;
@@ -124,7 +84,6 @@
     --bs-dropdown-item-padding-x: 1rem;
     --bs-dropdown-item-padding-y: 0.25rem;
     --bs-dropdown-header-color: #617478;
->>>>>>> 9001704 (Inital commit)
     --bs-dropdown-header-padding-x: 1rem;
     --bs-dropdown-header-padding-y: 1rem;
     position: absolute;
@@ -167,13 +126,6 @@
     background-size: cover;
 }
 
-<<<<<<< HEAD
-.flex-column {
-    flex-direction: column!important;
-    background-color: #776aa8a6;
-}
-
-=======
 .card {
     --bs-card-spacer-y: 1rem;
     --bs-card-spacer-x: 1rem;
@@ -215,7 +167,6 @@
 
 
 
->>>>>>> 9001704 (Inital commit)
 .btn-primary {
     --bs-btn-color: #fff;
     --bs-btn-bg: #575755!important;
@@ -255,15 +206,9 @@
     background: linear-gradient(360deg, #CAC7CC, #CF8BF3, #FDB99B);
     background-size: 100% 200%; /* 高度設為200%以包含整個漸變 */
     animation: gradient-animation 10s linear infinite;
-<<<<<<< HEAD
-  }
-  
-  @keyframes gradient-animation {
-=======
 }
   
 @keyframes gradient-animation {
->>>>>>> 9001704 (Inital commit)
     0% {
       background-position: 0% 0%;
     }
@@ -305,8 +250,4 @@
     --bs-btn-disabled-bg: #cecece!important;
     --bs-btn-disabled-border-color: #cecece!important;
     border-radius: 20px!important;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9001704 (Inital commit)
